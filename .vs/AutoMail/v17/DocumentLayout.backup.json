@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9769182-842E-49F5-9CBC-7491DC63ACAE}|AutoMail\\AutoMail.csproj|c:\\users\\antar\\desktop\\c#_project\\automail\\automail\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9769182-842E-49F5-9CBC-7491DC63ACAE}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9769182-842E-49F5-9CBC-7491DC63ACAE}|AutoMail\\AutoMail.csproj|c:\\users\\antar\\desktop\\c#_project\\automail\\automail\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9769182-842E-49F5-9CBC-7491DC63ACAE}|AutoMail\\AutoMail.csproj|solutionrelative:automail\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Body.cs",
+              "DocumentMoniker": "C:\\Users\\antar\\Desktop\\C#_Project\\AutoMail\\AutoMail\\Body.cs",
+              "RelativeDocumentMoniker": "AutoMail\\Body.cs",
+              "ToolTip": "C:\\Users\\antar\\Desktop\\C#_Project\\AutoMail\\AutoMail\\Body.cs",
+              "RelativeToolTip": "AutoMail\\Body.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:50:09.667Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\antar\\Desktop\\C#_Project\\AutoMail\\AutoMail\\Class1.cs",
               "RelativeDocumentMoniker": "AutoMail\\Class1.cs",
-              "ToolTip": "C:\\Users\\antar\\Desktop\\C#_Project\\AutoMail\\AutoMail\\Class1.cs",
-              "RelativeToolTip": "AutoMail\\Class1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\antar\\Desktop\\C#_Project\\AutoMail\\AutoMail\\Class1.cs*",
+              "RelativeToolTip": "AutoMail\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:33:33.714Z",
               "EditorCaption": ""
